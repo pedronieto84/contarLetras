@@ -1,7 +1,7 @@
 {
   "name": "contar-letras-en-palabra",
   "url":"https://github.com/pedronieto84/contarLetras",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "",
   "main": "index.js",
   "scripts": {
